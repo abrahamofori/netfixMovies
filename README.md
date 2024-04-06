@@ -25,6 +25,19 @@ Visualization: Iterates through netflix_movies, assigning colors to genres and c
 
 The analysis concludes with a discussion on the trend of movie durations over time.
 
+
+Findings
+
+The analysis involved loading the Netflix dataset, filtering to focus on movies, and examining the duration of these films over time, categorized by genre. We carefully analyzed the trends after creating a scatter plot to visualize the relationship between movie duration and release year.
+
+The plots and analysis indicated that we cannot conclusively say movies' durations are declining. The evidence suggests that movie length varies significantly across different genres and periods, and a straightforward downward trend in movie duration is not evident. Therefore, we conclude that the claim of movies getting shorter over time needs more in-depth analysis to be substantiated.
+
+Ongoing Work
+
+I am currently working on a more detailed analysis to further investigate these trends. This involves examining additional factors that may affect movie duration and utilizing more advanced statistical techniques to analyze the data. The goal is to gain a clearer understanding of how and why movie durations may be changing over time.
+
+
+
 Contributing
 
 Contributors are welcome to improve the analysis or extend the dataset. Please follow these steps to contribute:
@@ -37,13 +50,12 @@ Commit your changes (git commit -am 'Add some feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 
 Thanks to those who have contributed to the dataset and to the development of tools that made this analysis possible.
+
+Special thanks to DataCamp for providing the educational resources and data that facilitated this analysis.
 
 Contact
 
